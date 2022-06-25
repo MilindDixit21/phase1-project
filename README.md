@@ -28,7 +28,7 @@ Installation:
 ----------------
 Clone the repo:-
 
-- _git clone git@github.com:MilindDixit21/phase1-project.git_
+- _git clone https://github.com/MilindDixit21/phase1-project.git_
 
 
 How to run Project
